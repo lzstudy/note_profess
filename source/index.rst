@@ -10,5 +10,6 @@
    :maxdepth: 3
    :titlesonly:
 
+   lte/index
    misc/index
 
