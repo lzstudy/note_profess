@@ -8,8 +8,9 @@
 
 .. toctree::
    :maxdepth: 3
-   :titlesonly:
+   :caption: 网络类
 
-   lte/index
+   net/lte/index
+   net/net_secure/index
    misc/index
 
