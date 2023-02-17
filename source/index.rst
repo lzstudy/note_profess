@@ -14,3 +14,8 @@
    net/net_secure/index
    misc/index
 
+.. toctree::
+   :maxdepth: 3
+   :caption: 电机类
+   
+   motor/index
